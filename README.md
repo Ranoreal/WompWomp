@@ -5,7 +5,7 @@ How to download? Click on one of these methods for a tutorial video [Using defau
 
 Server IP: ***shewlzy.playit.gg***
 
-[Pokemon Weekly Battle TournamentBracket](https://challonge.com/5u4msx26)
+Pokemon Weekly Battle [Tournament Bracket](https://challonge.com/5u4msx26)
 
 Some Usefull links:
 
