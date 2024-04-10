@@ -1,7 +1,7 @@
 # WompWomp
 The Pixelmon Server (Using Pokeehan as the base modpack and added some optimizations)
 
-How to download? [Using default minecraft launcher]() / [Using Prism Launche]()
+How to download? [Using default minecraft launcher]() / [Using Prism Launcher]()
 
 Server IP: ***(not up yet)***
 
