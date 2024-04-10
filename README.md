@@ -5,6 +5,8 @@ How to download? Click on one of these methods for a tutorial video [Using defau
 
 Server IP: ***shewlzy.playit.gg***
 
+[Pokemon Weekly Battle TournamentBracket](https://challonge.com/5u4msx26)
+
 Some Usefull links:
 
 [Download Minecraft](https://www.minecraft.net/en-us/download)
