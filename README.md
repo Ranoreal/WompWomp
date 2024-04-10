@@ -11,6 +11,8 @@ Some Usefull links:
 
 [Download Java 8](https://github.com/Ranoreal/WompWomp/releases/tag/java8)
 
+[Download Forge 1.16.5](https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-installer.jar)
+
 [Download Prism Launcher](https://github.com/PrismLauncher/PrismLauncher/releases/download/8.2/PrismLauncher-Windows-MSVC-Setup-8.2.exe)
 
 [Download the latest version of the Pixelmon Modpack](https://github.com/Ranoreal/WompWomp/releases/tag/wompwomp1.0.0)
