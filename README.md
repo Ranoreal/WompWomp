@@ -3,7 +3,7 @@ The Pixelmon Server (Using Pokeehan as the base modpack and added some optimizat
 
 How to download? Click on one of these methods for a tutorial video [Using default minecraft launcher]() / [Using Prism Launcher so its more organised]()
 
-Server IP: ***(not up yet)***
+Server IP: ***shewlzy.playit.gg***
 
 Some Usefull links:
 
